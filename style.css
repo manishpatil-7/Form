@@ -3,10 +3,10 @@
 }
 .Header{
     height: 80px;
-    background-color: coral;
+    background-color: #3a4452;
 }
 .footer{
-    background-color: coral;
+    background-color: #3a4452;
     height: 100px;
 }
 .btn-submit{
