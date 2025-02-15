@@ -4,13 +4,17 @@
 .Header{
     height: 80px;
     background-color: #3a4452;
+    color: aliceblue;
+    padding-top: 20px;
 }
 .footer{
-    background-color: #3a4452;
+    background-color:#3a4452;
     height: 100px;
+    color: aliceblue;
 }
 .btn-submit{
     border-radius: 15px;
     width: 150px;
     height: 35px;
+    margin-right: 300px;
 }
